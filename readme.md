@@ -1,4 +1,4 @@
-# Coordinated Prompt Tuning of Entailment Classifiers
+# GNC self-training for robust language understanding
 
 # Dependencies
 - Transformers 4.16.2
